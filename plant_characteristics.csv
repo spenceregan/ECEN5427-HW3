@@ -1,0 +1,6 @@
+plant_char,cap_cost,fom_cost,vom_cost,fuel_cost,emit_rate
+coal,3000,72,8,20,0.916
+gas-cc,2000,27,2,36,0.43
+nuclear,7000,145,2,7,0
+solar,1400,23,0,0,0
+wind,1300,43,0,0,0
